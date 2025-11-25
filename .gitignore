@@ -1,1 +1,6 @@
 demo notebook/data/
+/graphs_old/
+/graphs/
+/graphs_res50/
+best_model.pt
+/data/

@@ -1,0 +1,10 @@
+backbone: resnet18
+pretrained: True
+n_segments: 50
+knn_k: 4
+hid: 128
+heads: 4
+lr: 1e-3
+weight_decay: 1e-4
+batch_images: 8
+epochs: 20

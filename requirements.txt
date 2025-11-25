@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision
+torch-geometric
+scikit-image
+networkx
+numpy
+scikit-learn
+matplotlib
+pyyaml
+tqdm
